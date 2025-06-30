@@ -1,5 +1,5 @@
 
-# Contribuciones de Bianca Torres
+# Contribuciones de Bianca Grazia Merchán Torres
 
 ## Sprint 1
 
