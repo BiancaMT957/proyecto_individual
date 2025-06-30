@@ -66,4 +66,4 @@ python3 generate_docs.py
 
 
 > Los archivos markdown dentro de `docs/` son generados, por lo cual no tienen una autoría definida.
-> Se incluyó el script completo diagram_generator.py para que pueda funcionar al ejecutar.
+> Se incluyó el script completo diagram_generator.py, aunque aunque mi autoría corresponde únicamente a una de sus funciones, con el fin de asegurar su correcto funcionamiento al momento de la ejecución.
