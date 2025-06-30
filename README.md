@@ -43,7 +43,7 @@ python3 -m venv .venv
 ##  Cómo clonar y ejecutar este proyecto
 
 ```bash
-git clone https://github.com/BiancaMT957/proyecto_individual/git.
+git clone https://github.com/BiancaMT957/proyecto_individual.git
 cd mi_proyecto_individual
 
 # Si hay scripts Python:
