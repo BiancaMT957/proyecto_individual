@@ -12,7 +12,7 @@ Contribuí al desarrollo de los módulos config_files, root_dir, service_dir y s
 ### Herramientas necesarias:
 
 ```
- # terraform
+# terraform
 $ sudo apt update
 $ sudo apt install terraform
 # python +3.8 
