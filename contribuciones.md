@@ -1,4 +1,3 @@
-
 # Contribuciones de Bianca Grazia Merchán Torres
 
 ## Sprint 1
@@ -12,7 +11,7 @@
   Pull request grupal: [#10](https://github.com/Jharvichu/PC4_Grupo8_Proyecto10/pull/10)
 
 - 2025-06-25: Añadí el módulo `config_files` con dependencia a `root_dir`.  
-  Commit: `feat(tf): (Issue #2) añadir módulo config_files con dependencia a root_dir`   
+  Commit: `feat(tf): (Issue #2) añadir módulo config_files con dependencia a root_dir`  
   Pull request grupal: [#10](https://github.com/Jharvichu/PC4_Grupo8_Proyecto10/pull/10)
 
 - 2025-06-25: Implementé el módulo `service_dir` con subdirectorio y archivo.  
@@ -24,7 +23,7 @@
   Pull request grupal: [#10](https://github.com/Jharvichu/PC4_Grupo8_Proyecto10/pull/10)
 
 - 2025-06-25: Documenté la infraestructura local y la ejecución en el README.  
-  Commit: `git commit -m docs(readme): (Issue #2) documentar infraestructura local y ejecución`  
+  Commit: `docs(readme): (Issue #2) documentar infraestructura local y ejecución`  
   Pull request grupal: [#10](https://github.com/Jharvichu/PC4_Grupo8_Proyecto10/pull/10)
 
 - 2025-06-26: Moví la estructura del proyecto a la carpeta `infra/`.  
@@ -42,11 +41,11 @@
 - 2025-06-26: Añadí detalles de variables y outputs en READMEs de módulos.  
   Commit: `docs(readme): (Issue #2) añadir detalles de variables y outputs en READMEs de módulos`  
   Pull request grupal: [#10](https://github.com/Jharvichu/PC4_Grupo8_Proyecto10/pull/10)
-  
+
 ## Sprint 2
 
 - 2025-06-28: Generé `infra_diagram.dot` en `docs/` con recursos y relaciones de infraestructura.  
-  Commit: `feat(py): (Issue #15) generar infra_diagram.dot en docs/`   
+  Commit: `feat(py): (Issue #15) generar infra_diagram.dot en docs/`  
   Pull request grupal: [#20](https://github.com/Jharvichu/PC4_Grupo8_Proyecto10/pull/20)
 
 - 2025-06-28: Añadí documentación al README sobre la generación de `infra_diagram.dot`.  
@@ -58,7 +57,7 @@
   Pull request grupal: [#20](https://github.com/Jharvichu/PC4_Grupo8_Proyecto10/pull/20)
 
 - 2025-06-28: Generé archivo `infra_diagram.dot` en `diagram_generator` con nodos de recursos y relaciones.  
-  Commit: `feat(diagram_generator): (Issue #15) generar archivo infra_diagram.dot con nodos de recursos y relaciones`   
+  Commit: `feat(diagram_generator): (Issue #15) generar archivo infra_diagram.dot con nodos de recursos y relaciones`  
   Pull request grupal: [#20](https://github.com/Jharvichu/PC4_Grupo8_Proyecto10/pull/20)
 
 - 2025-06-28: Añadí funcionalidad para generar imagen PNG desde `infra_diagram.dot`.  
