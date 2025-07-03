@@ -67,4 +67,4 @@ python3 generate_docs.py
 
 > Los archivos markdown dentro de `docs/` son generados, por lo cual no tienen una autoría definida.
 > Se incluyó el script completo diagram_generator.py, aunque aunque mi autoría corresponde únicamente a una de sus funciones, con el fin de asegurar su correcto funcionamiento al momento de la ejecución.
-> Al doc_extractor.py se le agrego la parte de cobertura de métricas, mi autoria solo corresponde a una funcion y una seccion de métricaslo demas no
+> Al doc_extractor.py se le agrego la parte de cobertura de métricas, mi autoria solo corresponde a una funcion y un cambio en otra función que tienen que ver con esa implementacion.
